@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">China Pickering</a></b>
+                <b><a target="_blank" href="https://chinapickering.netlify.app/">China Pickering</a></b>
         </samp>
 </h3>
 
@@ -41,7 +41,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/travelling.png" alt="travelling photo" />
   
  ✌️ &emsp; Currently transitioning from being a physiotherapist to learning code, <br/><br/>
  ❤️ &emsp; Love travelling and experiencing new things!<br/><br/>
