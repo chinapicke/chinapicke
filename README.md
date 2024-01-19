@@ -35,7 +35,7 @@
  # About me
  
 <p>
- <img align="right" width="350" border-radius:"50" src="/travelling.png" alt="travelling photo" />
+ <img align="right" width="350" style="border-radius:50%" src="/travelling.png" alt="travelling photo" />
   
  ✌️ &emsp; Currently transitioning from being a physiotherapist to learning code, <br/><br/>
  ❤️ &emsp; Love travelling and experiencing new things!<br/><br/>
