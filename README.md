@@ -67,7 +67,7 @@
 <br/>
 
 ## Top Open Source -
-<div display="flex" flex-direction="row" align-items="center">
+<div display="flex" flex-direction="row" justify-content="center">
  <img  width="350" src="/shopitGithub.png" alt="Project 1" />
   <img  width="350" src="/gutenbookGithub.png" alt="Project 2" />
    <img  width="350" src="/bbcGithub.png" alt="Project 3" />  
