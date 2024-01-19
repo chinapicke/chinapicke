@@ -68,8 +68,8 @@
 
 ## Top Open Source -
 <div display="flex" flex-direction="row">
- <img align="left" width="350" src="/shopitGithub.png" alt="Project 1" />
-  <img align="center" width="350" src="/gutenbookGithub.png" alt="Project 2" />
-   <img align="right" width="350" src="/bbcGithub.png" alt="Project 3" />  
+ <img align="left" width="200" src="/shopitGithub.png" alt="Project 1" />
+  <img align="center" width="200" src="/gutenbookGithub.png" alt="Project 2" />
+   <img align="right" width="200" src="/bbcGithub.png" alt="Project 3" />  
 </div>
 
