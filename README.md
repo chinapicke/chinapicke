@@ -44,7 +44,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Currently transitioning from being a physiotherapist to learning code, <br/><br/>
- ❤️ &emsp; Love learning new things and testing the boundaries.<br/><br/>
+ ❤️ &emsp; Love travelling and experiencing new things!<br/><br/>
  📧 &emsp; Reach me anytime: chinapickering97@gmail.com<br/><br/>
 
 </p>
