@@ -37,7 +37,7 @@
 <p>
  <img align="right" width="300"src="/travelling.png" alt="travelling photo" />
   
- ✌️ &emsp; Currently transitioning from being a physiotherapist to learning code, <br/><br/>
+ ✌️ &emsp; Currently transitioning from being a physiotherapist to a full stack developer. <br/><br/>
  ❤️ &emsp; Love travelling and experiencing new things!<br/><br/>
  📧 &emsp; Reach me anytime: chinapickering97@gmail.com<br/><br/>
 
